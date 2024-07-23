@@ -1,5 +1,3 @@
-Sure! Here is a neatly formatted version for your README.md:
-
 ---
 
 # Chrome Extension - Get Title
@@ -45,4 +43,3 @@ This Chrome extension fetches the title of the current active tab and displays i
 
 ---
 
-Now, you can use this formatted text for your `README.md` file.
